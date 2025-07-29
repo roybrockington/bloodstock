@@ -1,59 +1,59 @@
 [
  {
    "sku": 10002597,
-   "description": "LTD EC-256FM CB LH COBALT BLUE EC Series Guitars - LEFTHAND",
+   "description": "LTD EC-256FM CB LH COBALT BLUE - LEFTHAND",
    "ssp": 505,
    "image1": "https://media.sound-service.eu/Artikelbilder/Shopsystem/156x83/EC-256FM%20LH%20COBALT%20BLUE.jpg",
    "brand": "https://soundservicelabs.com/api/img/LTD.jpg",
    "street": 449,
    "below ssp": "11%",
-   "bloodstock": 426.55
+   "bloodstock": 425
  },
  {
    "sku": 10007868,
-   "description": "LTD JM-II JOSH MIDDLETON SIGNATURE - Incl. Case BLACK SHADOW BURST",
+   "description": "LTD JM-II JOSH MIDDLETON SIGNATURE BLACK SHADOW BURST",
    "ssp": 1675,
    "image1": "https://media.sound-service.eu/Artikelbilder/Shopsystem/156x83/JM-II%20BLACK%20SHADOW%20BURST.jpg",
    "brand": "https://soundservicelabs.com/api/img/LTD.jpg",
    "street": 1490,
    "below ssp": "11%",
-   "bloodstock": 1415.5
+   "bloodstock": 1415
  },
  {
    "sku": 10011342,
    "description": "LTD GH-SV-200 BLK Gary Holt",
    "ssp": 719,
-   "image1": "https://media.sound-service.eu/Artikelbilder/Shopsystem/156x83/GH-SV200_BLK_FRONT.jpg",
+   "image1": "https://www.lamusic.com/cdn/shop/files/LGHSV200BLK_hqw.jpg?v=1720108119",
    "brand": "https://soundservicelabs.com/api/img/LTD.jpg",
    "street": 629,
    "below ssp": "13%",
-   "bloodstock": 597.55
+   "bloodstock": 595
  },
  {
    "sku": 10011374,
    "description": "LTD PHOENIX-1001 QM TOBACCO SUNBURST",
    "ssp": 1399,
-   "image1": "https://media.sound-service.eu/Artikelbilder/Shopsystem/156x83/PHOENIX-1001_TSB_FRONT.jpg",
+   "image1": "https://www.lamusic.com/cdn/shop/files/original_1ea0c5af-cde4-4c7b-b626-c5d1e639a9ba_848x297.png?v=1718804147",
    "brand": "https://soundservicelabs.com/api/img/LTD.jpg",
    "street": 1215,
    "below ssp": "13%",
-   "bloodstock": 1154.25
+   "bloodstock": 1155
  },
  {
    "sku": 10011375,
    "description": "LTD SN-1007 BARITONE HT FIREBLAST",
    "ssp": 1888,
-   "image1": "https://media.sound-service.eu/Artikelbilder/Shopsystem/156x83/SN-1007HT%20BARITONE_FIREBLAST_FRONT.jpg",
+   "image1": "https://www.lamusic.com/cdn/shop/products/original-2022-01-15T091231.159_1024x1024.png?v=1642255970",
    "brand": "https://soundservicelabs.com/api/img/LTD.jpg",
    "street": 1759,
    "below ssp": "7%",
-   "bloodstock": 1671.05
+   "bloodstock": 1670
  },
  {
    "sku": 10011379,
    "description": "LTD HORIZON CTM '87 CANDY APPLE RED",
    "ssp": 1605,
-   "image1": "https://media.sound-service.eu/Artikelbilder/Shopsystem/156x83/HORIZON%20CUSTOM%2087_CAR_FRONT.jpg",
+   "image1": "https://www.lamusic.com/cdn/shop/files/LHORIZONCTM87CAR_hqw_852x280.jpg?v=1720104240",
    "brand": "https://soundservicelabs.com/api/img/LTD.jpg",
    "street": 1322,
    "below ssp": "18%",
@@ -131,9 +131,9 @@
  },
  {
    "sku": 10012661,
-   "description": "LTD SC-608 BARITONE YEL LIMITED EDITION LIMITED EDITION",
+   "description": "LTD SC-608 BARITONE YEL LIMITED EDITION",
    "ssp": 1825,
-   "image1": "",
+   "image1": "https://www.lamusic.com/cdn/shop/files/original_2_228x75_crop_center.png?v=1737117744",
    "brand": "https://soundservicelabs.com/api/img/LTD.jpg",
    "street": 1745,
    "below ssp": "4%",
@@ -261,7 +261,7 @@
  },
  {
    "sku": 20002723,
-   "description": "LTD SNAKEBYTE SW JAMES HETFIELD - Incl. Case SNOW WHITE",
+   "description": "LTD SNAKEBYTE SW JAMES HETFIELD - SNOW WHITE",
    "ssp": 1549,
    "image1": "https://media.sound-service.eu/Artikelbilder/Shopsystem/156x83/LTD%20SNAKEBYTE%20SNOW%20WHITE.jpg",
    "brand": "https://soundservicelabs.com/api/img/LTD.jpg",
