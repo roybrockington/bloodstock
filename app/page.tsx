@@ -9,8 +9,16 @@ export default function Home() {
             <main className="flex flex-col gap-[32px] row-start-2 items-center sm:items-start">
                 <span className="mb-2 h-2 border-b-1 border-b-zinc-300 w-full"></span>
                 {products.map(product =>
-                    <li key={product.sku} className="mb-2 list-none flex flex-col items-center gap-4 pb-4 border-b-1 border-b-zinc-300">
-                        <h3 className="text-xl font-bold">{product.description}</h3>
+                    <li key={product.sku} className="mb-2 list-none flex flex-col items-center gap-4 pb-4 border-b-1 border-b-zinc-300 w-full">
+                            <Image
+                                className="dark:invert"
+                                src={product.brand}
+                                alt=""
+                                width={80}
+                                height={40}
+                                priority
+                            />
+                        <h3 className="text-xl font-bold text-center">{product.description}</h3>
                         <div className="flex">
                             <Image
                                 className="dark:invert"
