@@ -14,7 +14,7 @@ export default function Home() {
                         <div className="flex">
                             <Image
                                 className="dark:invert"
-                                src={product.image1}
+                                src={`@/assets/images/${product.sku}.jpg`}
                                 alt=""
                                 width={180}
                                 height={38}
