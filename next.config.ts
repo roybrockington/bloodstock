@@ -9,15 +9,11 @@ const nextConfig = {
       },
       {
         protocol: 'https',
-        hostname: '*.soundservicelabs.com',
+        hostname: 'soundservicelabs.com',
       },
       {
         protocol: 'https',
         hostname: '*.espguitars-distribution-soundservice.eu',
-      },
-      {
-        protocol: 'https',
-        hostname: '*.lamusic.com',
       },
     ],
   },
