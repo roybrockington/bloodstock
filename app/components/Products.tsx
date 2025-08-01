@@ -8,7 +8,7 @@ type Product = {
    image1: string
    brand: string
    street: number
-   bloodstock: 1175
+   bloodstock: number
    link: string
 }
 
