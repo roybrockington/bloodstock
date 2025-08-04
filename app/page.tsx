@@ -13,9 +13,9 @@ export default function Home() {
     return (
         <div className="font-sans min-h-screen px-8">
             <aside className="w-full flex list-none gap-4 justify-center text-xl my-4">
-                <button onClick={() => setActiveTab("guitars")} className={`px-2 rounded-xl cursor-pointer ${activeTab == "guitars" ? 'text-white bg-black' : ''}`}>Guitars</button>
+                <button onClick={() => setActiveTab("guitars")} className={`px-2 rounded-xl cursor-pointer ${activeTab == "guitars" ? 'text-white bg-black dark:bg-red-900' : ''}`}>Guitars</button>
                 <span>|</span>
-                <button onClick={() => setActiveTab("merch")} className={`px-2 rounded-xl cursor-pointer ${activeTab == "merch" ? 'text-white bg-black' : ''}`}>Merch</button>
+                <button onClick={() => setActiveTab("merch")} className={`px-2 rounded-xl cursor-pointer ${activeTab == "merch" ? 'text-white bg-black dark:bg-red-900' : ''}`}>Merch</button>
             </aside>
             <main className="flex flex-col row-start-2 items-center sm:items-start">
                 <span className="mb-2 h-2 border-b-1 border-b-zinc-300 w-full"></span>

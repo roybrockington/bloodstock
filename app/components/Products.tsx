@@ -22,8 +22,8 @@ const Products = ({products, show}: {products: Product[], show: boolean}) => {
                 className={`mb-2 list-none ${show ? 'flex' : 'hidden'} flex-col items-center gap-4 pb-4 border-b-1 border-b-zinc-300 w-full`}
             >
                 <Image
-                    className="dark:invert"
                     src={product.brand}
+                        className="dark:invert"
                     alt=""
                     width={80}
                     height={40}
@@ -32,9 +32,9 @@ const Products = ({products, show}: {products: Product[], show: boolean}) => {
                 <h3 className="text-xl font-bold text-center">{product.description}</h3>
                 <div className="flex">
                     <Image
-                        className="dark:invert"
                         src={`/images/${product.sku}.jpg`}
-                        alt=""
+                            className="dark:rounded-xl"
+                        alt={product.description}
                         width={180}
                         height={38}
                         priority

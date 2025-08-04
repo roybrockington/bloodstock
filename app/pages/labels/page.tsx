@@ -19,10 +19,9 @@ const Labels = () => {
     return (
         <div className="bg-white flex flex-wrap">
             {guitars.map(guitar =>
-                <div className="w-1/3 flex justify-between p-2 items-center border rounded h-[148px]" key={guitar.sku}>
+                <div className="w-1/3 flex justify-between p-2 items-center border rounded h-[144px]" key={guitar.sku}>
                     <div className="mr-4 flex flex-col justify-end gap-2">
                         <Image
-                            className="dark:invert"
                             src={brandMap[guitar.brand]}
                             alt=""
                             width={0}
