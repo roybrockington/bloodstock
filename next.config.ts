@@ -15,6 +15,10 @@ const nextConfig = {
         protocol: 'https',
         hostname: '*.espguitars-distribution-soundservice.eu',
       },
+      {
+        protocol: 'https',
+        hostname: 'quickchart.io',
+      },
     ],
   },
 }
