@@ -308,5 +308,26 @@
         "street": 639,
         "bloodstock": 599,
         "link": "https://buy.stripe.com/fZufZb5vx3mB0Ds6D51RC0z"
+    },
+        {
+        "sku": 10005377,
+        "description": "M-1 CTM '87 DARK METALLIC PURPLE",
+        "ssp": 1299,
+        "image1": "https://media.sound-service.eu/Artikelbilder/Shopsystem/156x83/MAX-200%20RPR%20Green_2.jpg",
+        "brand": "https://soundservicelabs.com/api/img/LTD.jpg",
+        "street": 1049,
+        "bloodstock": 995,
+        "link": "https://buy.stripe.com/5kQfZbaPR3mBeui2mP1RC0A"
+    },
+    {
+        "sku": 10002859,
+        "description": "B-1005 NS NATURAL SATIN",
+        "ssp": 2499,
+        "image1": "https://media.sound-service.eu/Artikelbilder/Shopsystem/156x83/MAX-200%20RPR%20Green_2.jpg",
+        "brand": "https://soundservicelabs.com/api/img/LTD.jpg",
+        "street": 2199,
+        "bloodstock": 2050,
+        "link": "https://buy.stripe.com/5kQ00daPR1et71Q8Ld1RC0B"
     }
+
 ]
